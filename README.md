@@ -146,7 +146,7 @@ Runtime protection |   |  | X
 CIS Compliance checks |   |   | X
 
 ## Issues and feedback
-If you come across any problems or would like to give us feedback on MicroScanner we encourage you to raise issues here on GitHub.
+If you come across any problems or would like to give us feedback on MicroScanner we encourage you to raise issues here on GitHub. We are happy to see feedback given by you.
 
 ## Binary hash
 ```sh
